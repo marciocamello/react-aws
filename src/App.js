@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            Deploy S3 React + Codepipeline
+            React APP - AWS Deploy S3 + Codepipeline
         </p>
       </header>
     </div>
